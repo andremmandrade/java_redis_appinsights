@@ -1,4 +1,4 @@
-package com.joonsang.sample.springbootredis;
+package com.andreandrade.sample.springbootredis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.joonsang.sample.springbootredis.config;
+package com.andreandrade.sample.springbootredis.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;

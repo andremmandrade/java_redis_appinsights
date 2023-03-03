@@ -1,4 +1,4 @@
-package com.joonsang.sample.springbootredis.controller.request;
+package com.andreandrade.sample.springbootredis.controller.request;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

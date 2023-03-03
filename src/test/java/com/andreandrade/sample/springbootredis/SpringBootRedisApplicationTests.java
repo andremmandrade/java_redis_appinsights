@@ -1,4 +1,4 @@
-package com.joonsang.sample.springbootredis;
+package com.andreandrade.sample.springbootredis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

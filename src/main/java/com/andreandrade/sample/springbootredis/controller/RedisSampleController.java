@@ -1,9 +1,9 @@
-package com.joonsang.sample.springbootredis.controller;
+package com.andreandrade.sample.springbootredis.controller;
 
 import com.google.common.collect.ImmutableMap;
-import com.joonsang.sample.springbootredis.controller.request.RegisterUserRequest;
-import com.joonsang.sample.springbootredis.domain.User;
-import com.joonsang.sample.springbootredis.service.UserService;
+import com.andreandrade.sample.springbootredis.controller.request.RegisterUserRequest;
+import com.andreandrade.sample.springbootredis.domain.User;
+import com.andreandrade.sample.springbootredis.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -11,12 +11,6 @@ import org.springframework.web.bind.annotation.*;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Redis Sample Controller
- * @author debugrammer
- * @version 1.0
- * @since 2019-11-10
- */
 @RestController
 @RequestMapping({"/redis-sample/v1"})
 public class RedisSampleController {

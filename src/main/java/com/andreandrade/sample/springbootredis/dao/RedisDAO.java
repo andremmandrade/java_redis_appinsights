@@ -1,9 +1,9 @@
-package com.joonsang.sample.springbootredis.dao;
+package com.andreandrade.sample.springbootredis.dao;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.collect.ImmutableMap;
-import com.joonsang.sample.springbootredis.domain.User;
+import com.andreandrade.sample.springbootredis.domain.User;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.text.StringSubstitutor;
 import org.springframework.beans.factory.annotation.Qualifier;

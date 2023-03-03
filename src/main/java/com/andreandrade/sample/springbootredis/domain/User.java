@@ -1,4 +1,4 @@
-package com.joonsang.sample.springbootredis.domain;
+package com.andreandrade.sample.springbootredis.domain;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -15,6 +15,8 @@ public class User implements Serializable {
 
     @Getter
     private String username;
+    @Getter
+    private String session;
 
     @Getter
     @JsonProperty("created_at")

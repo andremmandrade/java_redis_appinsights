@@ -1,7 +1,7 @@
-package com.joonsang.sample.springbootredis.service;
+package com.andreandrade.sample.springbootredis.service;
 
-import com.joonsang.sample.springbootredis.dao.RedisDAO;
-import com.joonsang.sample.springbootredis.domain.User;
+import com.andreandrade.sample.springbootredis.dao.RedisDAO;
+import com.andreandrade.sample.springbootredis.domain.User;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
