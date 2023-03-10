@@ -1,5 +1,7 @@
 .gradle
 build/
+bin/
+complete/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
@@ -29,5 +31,3 @@ out/
 
 ### VS Code ###
 .vscode/
-.bin/
-.complete/
